@@ -328,3 +328,27 @@
     left: 10%;
 }
 /*discoun post banner end */
+
+/*our protfolio section start*/
+.our_protfolio_section_main {
+    width: 80%;
+    margin: 140px auto;
+
+}
+.best_gift_text p {
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+.protfolio_heading p {
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    font-weight: 900;
+}
+.protfolio_discription p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+}
