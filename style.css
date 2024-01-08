@@ -368,3 +368,64 @@
     display: flex;
     justify-content: space-between;
 }
+
+/*our protfolio section end */
+
+/*subscriber section start */
+.subscriber_section_main {
+    width: 80%;
+    height: 430px;
+    margin: -60px auto;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background: rgba(255, 0, 0, 0.05);
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+}
+.nawsletter p {
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-weight: 900;
+    font-size: 30px;
+}
+.newletter_text p {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+.searchbox_container {
+    display: flex;
+    width: 400px;
+    margin: 20px auto;
+}
+.mail_logo, .nawsletter, .newletter_text, .searchbox_container {
+    margin-top: 2%;
+}
+
+.search_input_area {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-top-left-radius: 20px; 
+    border-bottom-left-radius: 20px;
+}
+
+.subscribe_btn {
+    background-color: #F00;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-top-right-radius: 20px; 
+    border-bottom-right-radius: 20px;
+}
+/* subscriber section end */
+  
+    
