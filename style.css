@@ -43,3 +43,52 @@
     
 }
 /* hero section end */
+
+/* 50% off section start */
+.dicount_section_container {
+    width: 40%;
+    height: auto;
+    margin: auto;
+    
+}
+.price_off {
+    text-align: center;
+}
+.price_off p {
+    font-family: 'Inter', sans-serif;
+    font-size: 70px;
+    color: #F00;
+    font-weight: 700;
+}
+.holidy_deal {
+    text-align: center;
+    margin-top: 13px;
+}
+.holidy_deal p {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #F00;
+}
+.all_categories {
+    text-align: center;
+    margin-top: 8px;
+}
+.all_categories p {
+    font-family: 'Inter', sans-serif;
+    color: #070211;
+    font-size: 25px;
+    font-weight: 600;
+    
+}
+.happy_new_year_img {
+    margin-top: 30px;
+    display: flex;
+    
+}
+.happy_year_img_insert {
+    width: 550px;
+    align-items: center;
+    justify-content: center;
+}
+/* 50% off section end */
