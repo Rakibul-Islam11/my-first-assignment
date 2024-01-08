@@ -248,3 +248,40 @@
 .year_name, .about_new_year, .new_year_brand_img {
     margin-top: 5%;
 }
+/*functional section start */
+.functional_section_main {
+    width: 80%;
+    height: 200px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.functional_container {
+    width: 60%;
+}
+.function_text, .holiday_sales, .sales_discription {
+    text-align: center;
+    margin-top: 2%;
+}
+.function_text p {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+.holiday_sales span  {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+} 
+.holiday_sales p {
+    font-family: 'Merriweather', serif;
+    
+}
+.holiday_sales span {
+    color: #F00;
+}
+.sales_discription p {
+    font-size: 15px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+}
+/*functional section end */
