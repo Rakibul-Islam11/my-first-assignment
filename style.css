@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+}
+
+/* hero section start */
+.hero_section_bg_img_container {
+
+   width: 80%;
+   height: auto;
+   margin: 50px auto;
+}
+
+.insert_bg {
+    width: 100%;
+    height: 496px;
+    background-color: red;
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("/media-images/Banner-Image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+}
+
+.insert_bg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.first_greet_txt, .secnd_greet_text, .third_greet_text {
+    color: white;
+    
+}
+.first_greet_txt {
+    font-size: 20px;
+}
+.secnd_greet_text, .third_greet_text   {
+    font-size: 50px;
+    
+}
+/* hero section end */
