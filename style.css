@@ -285,3 +285,45 @@
     font-family: 'Inter', sans-serif;
 }
 /*functional section end */
+
+/*discoun post banner start */
+.discount_post_banner_main {
+    width: 80%;
+    margin: -50px auto;
+    position: relative;
+}
+.first_area {
+    display: flex;
+    justify-content: end;
+    
+    
+}
+.discount_logo {
+    position: absolute;
+    top: 10%;
+    left: 47%;
+}
+.red_bg_insert {
+    width: 100%;
+    height: 130px;
+    background-image: url("media-images/rectangle-2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: -3px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+      
+}
+.first_area { /* for reuse */
+    position: relative;
+}
+.gift_box img {
+    width: 400px;
+}
+.gift_box {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+/*discoun post banner end */
