@@ -149,3 +149,13 @@
     color: rgba(255, 255, 255, 0.80);
 }
 /*welcome party section end */
+
+
+/*party_location_date_section */
+.party_location_date_section {
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    
+    background-color: rgb(255, 231, 231);
+}
