@@ -333,6 +333,8 @@
 .our_protfolio_section_main {
     width: 80%;
     margin: 140px auto;
+    height: auto;
+    
 
 }
 .best_gift_text p {
@@ -351,4 +353,18 @@
     font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-weight: 400;
+}
+.best_gift_text, .protfolio_heading, .protfolio_discription {
+    margin-top: 1%;
+}
+.protfolio_category_wrap {
+    margin-top: 3%;
+}
+.protfolio_category_container {
+    display: flex;
+    justify-content: space-between;
+}
+.protfolio_category_container_two {
+    display: flex;
+    justify-content: space-between;
 }
