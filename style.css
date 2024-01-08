@@ -92,3 +92,62 @@
     justify-content: center;
 }
 /* 50% off section end */
+
+/*welcome party section start */
+.welcome_party_container {
+    width: 80%;
+    margin: 50px auto;
+}
+.welcome_party_img {
+    width: 100%;
+    height: 499px;
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.4)), url("media-images/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+}
+
+.welcome_party_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.new_year_logo img {
+    width: 250px;
+    height: auto;
+}
+.midnight_text_container p {
+    font-family: 'Merriweather', serif;
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+}
+.for_join_btn  {
+    margin-top: 30px;
+}
+.for_join_btn button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #ff0000; 
+      color: #fff;
+      text-decoration: none;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+}
+.greeting_pera {
+    margin-top: 15px;
+}
+.greeting_pera p {
+    font-family: 'Inter', sans-serif;
+    color: rgba(255, 255, 255, 0.80);
+}
+/*welcome party section end */
