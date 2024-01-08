@@ -176,3 +176,75 @@
     line-height: 25px;
 }
 /*<!--party_location_date_section end--> */
+
+/*coming_soon_section start*/
+.coming_soon_section {
+    margin: 50px auto;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.coming_soon_text_wrap {
+    width: 26.66%;
+}
+.circle_img_wrap {
+    width: 26.66%;
+    
+}
+.circle_img img {
+    width: 230px;
+}
+
+.circle_img img:hover {
+    transform: scale(1.2);
+    transition: 0.5s;
+    
+}
+.circle_img {
+    width: 230px;
+    height: 230px;
+    border-radius: 50%; 
+    border: 7px solid #ff0000;
+    padding: 20px;
+}
+.thwo_thousand_tnwtfour_wrap {
+    width: 26.66%;
+    
+}
+.new_best p {
+    color: red;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+.coming_soon_text p {
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-weight: 900;
+    font-size: 30px;
+}
+.coming_soon_dis p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}
+.new_best, .coming_soon_text, .coming_soon_dis {
+    margin-top: 5%;
+}
+.year_name p {
+    font-family: 'Inter', sans-serif;
+    color: red;
+    font-size: 40px;
+    font-weight: 700;
+}
+.about_new_year p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}
+
+.year_name, .about_new_year, .new_year_brand_img {
+    margin-top: 5%;
+}
