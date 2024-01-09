@@ -486,7 +486,7 @@
 .searchbox_container {
     display: flex;
     width: 400px;
-    margin: 20px auto;
+    margin: auto;
 }
 .mail_logo, .nawsletter, .newletter_text, .searchbox_container {
     margin-top: 2%;
